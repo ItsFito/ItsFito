@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there! 👋 I'm Fito
 
+![ItsFito](img/github-header-banner.png)
+ ![Game On!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5NThmcmpycnlmbjc5YWRhbHB1eTFnY3J4cWdrdXd6OXFsaHVkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqNIMXcaj5rQ0YZJDn/giphy.gif)
 <!--
 **ItsFito/ItsFito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 🔭 I’m currently working on **@Myself**
+ 🌱 I’m currently learning [**Laravel**](https://laravel.com/) Framework
+
+ #### Skills
+ ##### IDE
+
+ [![My Skills](https://skillicons.dev/icons?i=vscode,&theme=light)](https://skillicons.dev)
+
+ ##### Languange
+
+  [![My Skills](https://skillicons.dev/icons?i=html,py,css,js,&theme=light)](https://skillicons.dev)
+
+
+ ##### FrameWork  
+
+   [![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,nextjs,nodejs,react,tailwind,vite,&theme=light)](https://skillicons.dev)
+
+#### Reach Me!!!!
+ ![https://www.instagram.com/fitov3rse/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/azzamalfatih/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+ <div align="center">
+  <a href="https://open.spotify.com/user/Nathan Alfito">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nathan%20Alfito&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsFito/ItsFito/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsFito/ItsFito/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItsFito/ItsFito/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+
+
+
+
+
