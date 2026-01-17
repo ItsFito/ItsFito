@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on **@Myself**
  
- 🌱 I’m currently learning [**Laravel**](https://laravel.com/) Framework
+ 🌱 I’m currently learning [**Python**]((https://www.python.org/))
+
+ 🤔 I’m looking for help with Research Plan and who's to contact for my master degree [lol]
+
+ 👯 I’m looking to collaborate on any open source project that include python or C++
 
  #### Skills
  ##### IDE
@@ -38,11 +42,6 @@ Here are some ideas to get you started:
 #### Reach Me!!!!
  ![https://www.instagram.com/fitov3rse/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/azzamalfatih/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
- <div align="center">
-  <a href="https://open.spotify.com/user/Nathan Alfito">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nathan%20Alfito&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 
 <picture>
