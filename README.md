@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  #### Skills
  ##### IDE
 
- [![My Skills](https://skillicons.dev/icons?i=vscode,&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,&theme=light)](https://skillicons.dev)
 
  ##### Languange
 
