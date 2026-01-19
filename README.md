@@ -1,7 +1,12 @@
 ## Hi there! 👋 I'm Fito
 
 ![ItsFito](img/github-header-banner.png)
- ![Game On!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5NThmcmpycnlmbjc5YWRhbHB1eTFnY3J4cWdrdXd6OXFsaHVkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wqNIMXcaj5rQ0YZJDn/giphy.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsFito/ItsFito/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsFito/ItsFito/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItsFito/ItsFito/output/pacman-contribution-graph.svg">
+</picture>
 <!--
 **ItsFito/ItsFito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,11 +49,7 @@ Here are some ideas to get you started:
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsFito/ItsFito/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsFito/ItsFito/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItsFito/ItsFito/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
 
